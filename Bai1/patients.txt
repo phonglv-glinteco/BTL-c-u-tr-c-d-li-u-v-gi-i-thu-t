@@ -1,0 +1,7 @@
+BN001, Nguyễn Văn A, 30,  nam, Cảm cúm
+BN002, Trần Thị B, 25, Nữ, Cảm lạnh
+BN003, Phạm Văn C, 40, Nam, Sốt
+BN004, Lê Thị D, 35, Nữ, Hen suyễn
+BN005, Ngô Văn E, 50, Nam, Tiểu đường
+BN006, Hoàng Thị F, 28, Nữ, Dị ứng
+
